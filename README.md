@@ -14,9 +14,8 @@
 單擊播放以播放默認的輸入旋律
 <img src="https://github.com/aws-samples/aws-deepcomposer-samples/blob/master/Lab%201/images/lab1-generate-composition.PNG" alt="Login">
 單擊生成合成以生成合成。AI生成的合成將被創建
-<img src="https://github.com/aws-samples/aws-deepcomposer-samples/blob/master/Lab%201/images/lab1-record.PNG" alt="Login">
-
 單擊播放以播放新的AI生成的音樂作品
+<br>
 輸入旋律：
 <img src="https://github.com/aws-samples/aws-deepcomposer-samples/blob/master/Lab%201/images/lab1-record.PNG" alt="Login">
 點擊錄製開始錄製
