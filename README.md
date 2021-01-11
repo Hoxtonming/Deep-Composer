@@ -1,2 +1,2 @@
-# Deep-Composer
-AWS Deep Composer
+先決條件：（在繼續之前請先閱讀）
+在實驗中使用Chrome瀏覽器
