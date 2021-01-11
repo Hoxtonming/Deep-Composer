@@ -3,7 +3,7 @@
 <br>訪問AWS DeepComposer控制台：
 單擊Deepcomposer鏈接開始使用：https ://us-east-1.console.aws.amazon.com/deepcomposer..
 <br>輸入提供的AWS賬戶ID，IAM用戶名和密碼
-<img src="https://github.com/aws-samples/aws-deepcomposer-samples/blob/master/Lab%201/images/lab1-access-console.png">
+<img src="https://github.com/aws-samples/aws-deepcomposer-samples/blob/master/Lab%201/images/lab1-access-console.png" alt style ="float:center;">
 點擊登錄
 <br>注意：您必須在N.Virginia（us-east-1）AWS區域中訪問控制台。可以使用下拉列表選擇正確的區域。
 <img src="https://github.com/aws-samples/aws-deepcomposer-samples/blob/master/Lab%201/images/aws-region.jpg">
